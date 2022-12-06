@@ -3,7 +3,7 @@ parser: "@typescript-eslint/parser"
 parserOptions:
   ecmaVersion: 6
   project: tsconfig.json
-  tsconfigRootDir: C:\Users\KUNZ\Desktop\acadee\chapitre-v-ft-kunz888\React\marketplace-app
+  tsconfigRootDir: _dirname
 
 env:
   node: true

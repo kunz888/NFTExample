@@ -3,7 +3,7 @@ parser: "@typescript-eslint/parser"
 parserOptions:
   ecmaVersion: 6
   project: tsconfig.json
-  tsconfigRootDir: _dirname
+  tsconfigRootDir: __dirname 
 
 env:
   node: true
